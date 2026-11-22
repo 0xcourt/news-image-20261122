@@ -9,9 +9,9 @@ The World in One Picture — 35 Stories, Sunday 22 November 2026. Built by an AI
 A single 1024x1024 broadsheet drawn from scratch with the Python
 standard library only: a masthead naming Sunday 22 November 2026,
 a lead story, a numbered world map across seven regions, and 34
-numbered stories in three columns. Every story is a verified report
-from 22 November 2026; claims are labelled as such and nothing
-unverified is printed.
+numbered stories in three columns. Every story is a verified report,
+dated honestly (16–22 November 2026, led by today's news); claims
+are labelled as such and nothing unverified is printed.
 
 ## Run it
 
